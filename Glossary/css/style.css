@@ -1,0 +1,76 @@
+h1{
+	text-align: center;
+	font-style: italic;
+	font-size: 50px;
+	color: red;
+}
+
+h3.letter{
+	text-align: center;
+	font-size: 30px;
+	color: white;
+}
+
+a{
+	color:black;
+	font-size: 20px;
+	font-style: arial;
+}
+
+.list{
+	list-style: none;
+}
+
+.main article{
+	display:inline-table;
+	width: 15%;
+	height: 270px;
+	border: 3px solid black;
+	text-align: left;
+	font-size: 1.2em;
+	background: url("../public/img/fondo2.png");
+	background-size: 200px 200px;
+}
+
+.main{
+	text-align: center;
+}
+
+footer{
+	color: white;
+	font-size: 25px;
+	text-align: center;
+}
+
+.one{
+	background : url("../public/img/fondo.png");
+	background-size: 110% 110%;
+	text-align: center;
+}
+.two {
+	background : url("../public/img/fondo.png");
+	background-size: 110% 110%;
+	text-align: center;
+}
+
+.two footer{
+	margin-top: 5%;
+}
+.two aside{
+	margin-top: 5%;
+}
+.two a{
+	color: white;
+	font-size: 25px;
+}
+.two h2{
+	color: red;
+	font-size: 45px;
+}
+.two p{
+	font-size: 30px;
+}
+
+.two h3, h4{
+	font-size: 25px;
+}
